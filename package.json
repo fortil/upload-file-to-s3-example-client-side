@@ -9,5 +9,9 @@
     "url": "https://williampenagos.com"
   },
   "repository": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "moment": "^2.19.2"
+  }
 }

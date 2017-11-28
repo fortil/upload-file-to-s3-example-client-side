@@ -18,3 +18,5 @@ functionSaveFile($event) {
 }
 
 ```
+
+PD: you need install `crypto` and `moment`
