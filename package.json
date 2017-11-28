@@ -1,0 +1,13 @@
+{
+  "name": "boilerplates3uploadclientside",
+  "version": "0.0.1",
+  "description": "A boilerplate to upload files to S3 on client side",
+  "main": "index.js",
+  "author": {
+    "name": "William Penagos",
+    "email": "info@williampenagos.com",
+    "url": "https://williampenagos.com"
+  },
+  "repository": "",
+  "license": "MIT"
+}
