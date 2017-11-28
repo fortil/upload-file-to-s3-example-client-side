@@ -6,7 +6,7 @@ In `html` code or component or wherever
 <input onchange="functionSaveFile">
 ```
 In your `js` code
-```
+```javascript
 import uploadFileToS3 from './index'
 
 functionSaveFile($event) {
